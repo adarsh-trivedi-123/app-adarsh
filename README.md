@@ -12,5 +12,5 @@ A simple Android application built using **Kotlin** and **Android Studio**.
 - Android Studio
 
 ## 📸 Screenshots
-
 ![App Screenshot](screenshots/app.png)
+
